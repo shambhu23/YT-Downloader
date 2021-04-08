@@ -16,4 +16,4 @@
 * [TGBotSzK](https://telegram.dog/TGBotSzK) English Group [TGBotSzK Support](https://telegram.dog/TGBotSzKSupport)
 * [Support Group](https://telegram.dog/MizoInFoTel1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/YT-Downloader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shambhu23/YT-Downloader/tree/master)
